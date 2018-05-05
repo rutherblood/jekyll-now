@@ -177,11 +177,10 @@ img {
   img {
     border-radius: 5px;
     height: 70px;
-  }
-  
-  img: hover {
-  	-webkit-filter: saturate(150%);
-    filter: saturate(150%);
+    &:hover {
+      -webkit-filter: saturate(150%);
+      filter: saturate(150%);
+    }
   }
 }
 
