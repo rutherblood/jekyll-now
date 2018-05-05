@@ -17,6 +17,5 @@ The thing about me is, I think I am very bad when it comes to practical intellig
 
 Anyway, I'm looking for a way for the real voice and _being_ of this blog to emerge. The initial posts might seem swaying, haphazard and going nowhere. But the agenda remains to do this daily with good quality and increasing experimentation and cutting the "artistic" crypticism. Will have some ideas soon. I'll be going home for two days over the workdays next week. Not sure when. My family is planning a trip to Saputara when I am there. Will probably be on a mountain soon. Nudes will keep coming regardless.
 
-See you tomorrow,
+See you tomorrow,  
 Avi.
-
