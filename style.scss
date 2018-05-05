@@ -177,10 +177,11 @@ img {
   img {
     border-radius: 5px;
     height: 70px;
+    transition: all 1s ease;
     &:hover {
       -webkit-filter: saturate(150%);
       filter: saturate(150%);
-      transition: all 3s ease;
+      transition: all 1s ease;
     }
   }
 }
