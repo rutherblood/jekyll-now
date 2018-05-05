@@ -72,10 +72,10 @@ a {
   color: $blue;
   text-decoration: none;
   cursor: pointer;
-  transition: all 1s ease;
+  transition: all 0.7s ease;
   &:hover, &:active {
     color: $blue;
-    transition: all 1s ease;
+    transition: all 0.7s ease;
   }
 }
 
