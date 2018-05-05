@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Running, Gambling and Chinese Philosophy
 
