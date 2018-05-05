@@ -71,9 +71,11 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
+  transition: all 1s ease;
   &:hover, &:active {
     color: $blue;
+    transition: all 1s ease;
   }
 }
 
