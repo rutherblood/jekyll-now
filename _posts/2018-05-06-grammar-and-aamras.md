@@ -1,4 +1,6 @@
 ---
+layout: post
+title: 'Grammar and Aamras.'
 published: true
 ---
 A snippet of what I heard two people talking yesterday:  
