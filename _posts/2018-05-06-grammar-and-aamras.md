@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Grammar and Aamras.'
+title: 'grammar and aamras.'
 published: true
 ---
 A snippet of what I heard two people talking yesterday:  
