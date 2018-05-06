@@ -5,7 +5,7 @@ published: true
 ---
 A snippet of what I heard two people talking yesterday:  
 "It doesn't sound right."  
-"Yeah, but it is grammatically correct."
+"Yeah, but it is **grammatically** correct."
 
 The thing about grammar I think most people do not seem to get is (I think that is the case, although it might not be at all and most people already figure this out at some point or the other), it is something fleshed out of the language's daily existence and usage in the real world. The language does keep constantly evolving and a language as beastly as the English tongue is simply unimaginable to capture in any formal structure. That is not to say I believe the English language is devoid of any rules whatsoever but I have come to really lose faith in any attempts to capture it in any grammar. The reason I could give is simply this: for every rule that one devises, a clever writer/speaker somewhere is bound to break them, if not today then surely tomorrow. Tomorrow keeps coming. The English language is used by millions of communities worldwide who each bring their own flavor to the tongue in either of these two ways:
 
