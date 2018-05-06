@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 A snippet of what I heard two people talking yesterday:  
 "It doesn't sound right."  
