@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Running, Gambling & Chinese Philosophy.'
+title: 'running, gambling & chinese philosophy.'
 published: true
 ---
 The greatest fear being not being able to do this daily. I have committed to write this blog daily in various places and most of all in my mind but I'm shitting my pants thinking I might not be able to do this. There is no point to this project if I do not maintain this as regularly as I have committed to. That is the point: **CONSISTENCY** & **DISCIPLINE**. Now there are various instances where I have failed to do so. 
