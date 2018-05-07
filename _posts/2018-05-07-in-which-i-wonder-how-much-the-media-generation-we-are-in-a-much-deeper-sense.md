@@ -11,5 +11,5 @@ Last night, while we had been to the mall and waiting for my order of falafel to
 
 A singular motto of _this_ project has been to **CUT THE BULLSHIT** which has so crept up in my writing. And it always seems like I write based on an idea of how I should write instead of an inner subtleity or urgency. In a similar way, it feels necessary to cut the bullshit from my own daily life and live it not as the advertisements, the movies or any other media tells me to but connect with things, humans the most of all. It becomes urgent not to let our experience be second-hand as in an influence according to which we might be conciously or unconsiously behaving but let all experience be raw. To live _first hand_. _The metaphysics of communiction_ I used call it. 
 
-See you tommorow,
+See you tommorow,  
 Avi.
