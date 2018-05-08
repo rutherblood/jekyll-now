@@ -19,7 +19,7 @@ Let me tell you what I'm ranting about and where I screwed up:
 
 2. My test scripts compute their own characteristics on the raw touch event data that comes in. These characteristics need to be strictly computed in the same way the characteristics were computed during my training. Turns out I initially wasted a lot of time due to bugs in both my training code, testing code and inconsistencies in my own thinking which led to different ways some attributes/characteristics were computed during training and during testing. 
 
-Thinking of the big picture, there are questions which come to mind now that I have been working with statistics and in an experimental framework: how can one _definitely_ tell if the inferences one makes from a dataset is true? Is testing the hypothesis on an unlooked dataset the only way? Is a _proof_ the hypothesis possible in any way? Turns out this is the [problem of induction](https://plato.stanford.edu/entries/induction-problem/ "SEP article on the Problem Of Induction") as stated in David Hume's _A Treatise of Human Nature_.
+Thinking of the big picture, there are questions which come to mind now that I have been working with statistics and in an experimental framework: how can one _definitely_ tell if the inferences one makes from a dataset is true? Is testing the hypothesis on a new dataset the only way? Is a _proof_ the hypothesis possible in any way? Turns out this is the [problem of induction](https://plato.stanford.edu/entries/induction-problem/ "SEP article on the Problem Of Induction") as stated in David Hume's _A Treatise of Human Nature_.
 
 See you tomorrow,  
 Avi.
