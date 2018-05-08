@@ -17,6 +17,8 @@ Let me tell you what I'm ranting about and where I screwed up:
 
 2. My test scripts compute their own characterstics on the raw touch event data that comes in. These characterstics need to strictly be computed in the same way the characterstics were computed during my training. Turns out I initially wasted a lot of time due to bugs in both my training code, testing code and inconsistencies in my own thinking which led to different ways some attributes/characterstics were computed while training and while testing. 
 
+
+
 See you tomorrow,
 Avi.
 
