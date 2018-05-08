@@ -21,6 +21,7 @@ Let me tell you what I'm ranting about and where I screwed up:
 
 Looking at the big picture, there are questions which come to mind now that I have been working with statistics and in an experimental framework: how can one _definitely_ tell if the inferences one makes from a dataset is right? Is testing the hypothesis on an unlooked dataset the only way? Is a _proof_ the hypothesis possible in any way? Turns out this is the [problem of induction](https://plato.stanford.edu/entries/induction-problem/ "SEP article on the Problem Of Induction") as put by David Hume in his _A Treatise of Human Nature_.
 
+See you tomorrow,  
 Avi.
 
 P.S.: **MORAL OF THE STORY:** It never helps to be not disciplined. Always be disciplined. Chao.
