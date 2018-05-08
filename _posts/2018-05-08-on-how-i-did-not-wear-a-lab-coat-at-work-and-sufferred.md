@@ -1,5 +1,7 @@
 ---
 published: false
+layout: post
+title: on how i did not wear a lab coat at work and suffered.
 ---
 One of my current roommates works at a government centre for disease control research here at Currey Road. He is a biotechnology graduate and his work most requires him to collect data in experiments according to a strictly defined protocol. The word "protocol" here is key. 
 
