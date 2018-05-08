@@ -24,4 +24,4 @@ Thinking of the big picture, there are questions which come to mind now that I h
 See you tomorrow,  
 Avi.
 
-P.S.: **MORAL OF THE STORY:** It never helps to be not disciplined. Always be disciplined. Chao.
+P.S. **MORAL OF THE STORY:** It never helps to be not disciplined. Always be disciplined. Chao.
