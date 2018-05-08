@@ -15,7 +15,7 @@ Except it's not if **YOU'RE AN UNDISCIPLINED AND INCONSISTENT FUCK**. You see I 
 
 Let me tell you what I'm ranting about and where I screwed up:
 
-1. I collected multiple data sets for the various kind of gestures like panning, zooming and others which did not fall within the category of my prime target (i.e. stylus or palm) and which needed to be positively filtered. I mixed them with my stylus/palm data set to train the decision tree. Except I didn't label these data-sets as descriptively as I should have and ended up with a hodgepodge, taking a bad guess, mixed incompatible data-sets and ended up with unwanted decision trees. Do not ask me how many times I repeated this same mistake.
+1. I collected multiple data sets for the various kind of gestures like panning, zooming and others which did not fall within the category of my prime target (i.e. stylus or palm) and which needed to be positively filtered. I mixed them with my stylus/palm data set to train the decision tree. Except I didn't label these data-sets as descriptively as I should have and ended up with a hodgepodge, took bad guesses, mixed incompatible data-sets and ended up with unwanted decision trees. Do not ask me how many times I repeated this same mistake.
 
 2. My test scripts compute their own characteristics on the raw touch event data that comes in. These characteristics need to strictly be computed in the same way the characteristics were computed during my training. Turns out I initially wasted a lot of time due to bugs in both my training code, testing code and inconsistencies in my own thinking which led to different ways some attributes/characteristics were computed while training and while testing. 
 
