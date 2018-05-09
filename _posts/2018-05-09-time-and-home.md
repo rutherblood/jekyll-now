@@ -7,7 +7,7 @@ Coming by from the train station last night, the rickshaw-wallah points out to m
 
 Bombay that way can be described as a hat trick. It makes you forget there is a place free of its buildings, layers, sewers, trains and hot roads out there. Time flows differently as a result and each day seems like a NetFlix show. 
 
-I woke up late today. Whenever I do come home I wish of a morning run at Tithal but that unfortuntely never happens. The flow of time is definitely different out here. One thinks of more time the day has to offer than is possible there at Bombay. Although it could just be the holiday from work working my mind. Anyway, stay sassy and productive. Love.
+I woke up late today. Whenever I do come home I wish of a morning run at Tithal but that unfortunately never happens. The flow of time is definitely different out here. One thinks of more time the day has to offer than is possible there at Bombay. Although it could just be the holiday from work working my mind. Anyway, stay sassy and productive. Love.
 
 See you tomorrow,  
 Avi.
