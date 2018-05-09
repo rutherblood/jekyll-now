@@ -1,4 +1,6 @@
 ---
+layout: post
+title: time and home.
 published: true
 ---
 I'm home. Home is [here](https://goo.gl/maps/uMBUZP5htXp "Google Maps link to Valsad"). The sunlight here is amazing. The day is hot but the sea saves us nevertheless. 
