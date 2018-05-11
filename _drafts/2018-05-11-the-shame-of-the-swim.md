@@ -9,4 +9,4 @@ I went swimming yesterday in the hotel pool. Luckily I was the only person there
 
 1. I cannot seem to get my breathing right. I try flipping my head sideways over the water but cannot seem to do with good timing ever and as a result no successful breathe-in takes place. This also drains my energy.
 
-2. 
+2. The sheer physical motion of flipping your arms and moving your legs is something I underestimated to the greatest degree. I discovered I am not fit for it at all. 
