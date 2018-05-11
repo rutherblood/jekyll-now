@@ -15,3 +15,5 @@ I went swimming yesterday in the hotel pool. Luckily I was the only person there
 
 See you tomorrow,  
 Avi.
+
+P.S. Oh, and here is a [sweet song](https://youtu.be/LAzeiAJN818 "A YouTube link to Talking Head's Take Me To The River") for you today.
