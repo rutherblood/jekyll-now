@@ -1,4 +1,6 @@
 ---
+layout: post
+title: the shame of the swim.
 published: true
 ---
 I am on a mountaintop now. Each mountain has a personality which comes out through a variety of physical factors such as the state of mind you are in right now, the people you are with or whether you are alone, the sheer weather of the place. If someone were to put a gun to my head and ask me what personality this one has, I would say it is a monomaniacal soul-enervating one.
