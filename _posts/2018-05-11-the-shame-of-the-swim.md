@@ -11,5 +11,5 @@ I went swimming yesterday in the hotel pool. Luckily I was the only person there
 
 2. The sheer physical motion of flipping your arms and moving your legs is something I underestimated to the greatest degree. I discovered I am not fit for it at all. It is like running with resistance. That is soul draining. Or maybe my technique just is not right yet.
 
-See you tomorrow,
+See you tomorrow,  
 Avi.
