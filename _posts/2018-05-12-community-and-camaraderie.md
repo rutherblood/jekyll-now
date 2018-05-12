@@ -11,3 +11,4 @@ See you tomorrow,
 Avi.
 
 P.S. Here is a picture of a washed-up jellyfish on the shore.
+![Image of a washed up jellyfish at Tithal]({{site.baseurl}}//images/jellyfish.jpeg)
