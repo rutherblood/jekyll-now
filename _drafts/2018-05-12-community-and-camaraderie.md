@@ -1,4 +1,4 @@
 ---
 published: false
 ---
-While taking the rare run at the beach three days back 
+Whenever I take this rare run at the beach back home
