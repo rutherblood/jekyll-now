@@ -1,4 +1,6 @@
 ---
+layout: post
+title: community and camaraderie.
 published: true
 ---
 Whenever I take the rare run at the beach back home I pass through a part of Tithal unvisited by the most tourists who come visit and ignored even by the local visitors from town. This part of the beach is not a secret or anything but it lies beyond a border surprisingly no one seems to want to come across. The beach is actually adjoined to village roads and fishermen's houses, the governance not under town municipality. Even the tourist development budgets for the beach do not leak across this virtual border for some reason. 
