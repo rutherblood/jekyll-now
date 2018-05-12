@@ -287,7 +287,7 @@ nav {
   	transition: all 1s ease;
     &:hover {
       -webkit-filter: contrast(200%);
-      filter: saturate(200%);
+      filter: contrast(200%);
       transition: all 1s ease;
     }
   }
