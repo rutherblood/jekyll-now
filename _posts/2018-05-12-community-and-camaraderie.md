@@ -9,7 +9,7 @@ When you step onto the beach through the main town road and start walking north 
 
 I am severely out of breath, energy and bathed in sweat as I am running across this village beach and observing all of this silently wondering if this community is not similar to the one in Goa many decades ago when white people first recognized it as their utopian bohemia and shed their clothes there. Sure this beach and its surroundings are less beautiful but I wonder what would require to make this place, this town an attraction for bohemianism and open to various ideas and more liberal sexuality of all. Of-course it had much more to it than just the beach, but rather much more to do with what was happening further inland, the social garment, culture, acceptance to new ideas, fundamentalism, religion, tribalism and the rest. Further discussion soon.
 
-See you tomorrow,
+See you tomorrow,  
 Avi.
 
 P.S. Here is a picture of a washed-up jellyfish on the shore.
