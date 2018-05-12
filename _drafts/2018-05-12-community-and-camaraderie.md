@@ -1,4 +1,4 @@
 ---
 published: false
 ---
-Whenever I take this rare run at the beach back home
+Whenever I take the rare run at the beach back home I pass through 
