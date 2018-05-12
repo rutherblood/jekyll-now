@@ -282,6 +282,15 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
+  
+  img {
+  	transition: all 1s ease;
+    &:hover {
+      -webkit-filter: saturate(150%);
+      filter: saturate(200%);
+      transition: all 1s ease;
+    }
+  }
 }
 
 .wrapper-footer {
