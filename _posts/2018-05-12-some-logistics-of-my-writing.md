@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 There is something about a daily routine I believe everyone comes to appreciate after some point in their lives. For me that time came some while back. What I realize is how much I have given heed to bodily comfort and the need for immediate gratification over the years and what toll such behaviour has taken on my habits and general well-being. 
 
