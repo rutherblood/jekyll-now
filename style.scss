@@ -290,7 +290,9 @@ nav {
       -moz-filter: saturate(200%);
       -webkit-filter: saturate(200%);
       filter: saturate(200%);
-      transition: all 1s ease-in-out;
+      transition: -webkit-filter 1s ease-in-out;
+      transition: -moz-filter 1s ease-in-out;
+      transition: filter 1s ease-in-out;
     }
   }
 }
