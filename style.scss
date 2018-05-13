@@ -287,6 +287,7 @@ nav {
   img {
   	transition: all 1s ease;
     &:hover {
+      -moz-filter: saturate(200%);
       -webkit-filter: saturate(200%);
       filter: saturate(200%);
       transition: all 1s ease-in-out;
