@@ -289,7 +289,7 @@ nav {
     &:hover {
       -webkit-filter: saturate(200%);
       filter: saturate(200%);
-      transition: all 1s ease;
+      transition: all 1s ease-in-out;
     }
   }
 }
