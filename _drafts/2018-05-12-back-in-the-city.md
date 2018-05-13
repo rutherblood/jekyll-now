@@ -10,4 +10,4 @@ There is something about a daily routine I believe everyone comes to appreciate 
 
 I am back in Bombay. I got here yesterday in the morning. The travel occupied me for three hours from 7 to 11 and I had other obligations due to which I missed out on my morning write-up for this blog for the first time in eight days. The missed schedule was really disorienting to be honest. I did manage to complete it before midnight thankfully. But the thing about discipline is once you miss out once on a timeout for an obligation things pretty much start snowballing really quick. I have no plans on repeating this again.
 
-In other things
+I usually write posts early in the morning from 7:30 onwards before work on weekdays when I am here and late on weekends as like today for example. It's almost 10 and I am yet to post. 
