@@ -13,9 +13,9 @@ Let me talk about dressing rooms and the matters surrounding them: I can't stand
 
 3. Your girlfriend selects a dress and walks outside to show you for a final call. She stands right at the head of the queue and expects you to answer how the dress looks. The entire audience of ladies is there, waiting in the line with nothing to do except poke their noses in other people's matters and they all turn around and start staring at you with their Medusa-like gazes to see what judgement you are going to pass on the dress your girlfriend is wearing. You cannot express how pretty she looks. She thinks the dress is okayish and even your initial reaction to it was not as good. She does not buy it.
 
-No gender studies here, I believe all of this is a simple store design problem. A store catering exclusively towards women's apparel is not designed with the simple scenario in mind that guys might come accompany their female partners at the store. Otherwise why would someone place the entire honeymoon lingerie section right near the fitting rooms? Not that there is anything wrong with standing besides hanging lingerie but just the presence of a guy there seems to make store female employees and female customers more conscious, to say the least. 
+No gender studies here, I believe all of this is a simple store design problem. A store catering exclusively towards women's apparel is not designed with the simple scenario in mind that guys might come accompany their female partners at the store. Otherwise, why would someone place the entire honeymoon lingerie section right near the fitting rooms? Not that there is anything wrong with standing beside hanging lingerie but just the presence of a guy there seems to make store female employees and female customers more conscious, to say the least. 
 
-Although not giving a fuck what others think my alleviate my pain to a greater degree I realize.
+Although not giving a fuck what others think might alleviate my pain to a greater degree I realize.
 
 See you tomorrow,  
 Avi.
