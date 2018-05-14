@@ -1,4 +1,6 @@
 ---
+layout: post
+title: to hell with women's fashion stores.
 published: true
 ---
 There is this weird out-of-place feeling you get as an unmarried guy when you are with your girlfriend at women's fashion stores, you young-looking, naive and a hot target for being judged as insensitive. It becomes very hard not to give a fuck, that muscle of mine not being exercised much of late. 
