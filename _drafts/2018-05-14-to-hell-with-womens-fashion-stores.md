@@ -9,6 +9,6 @@ Let me talk of dressing rooms and the matters surrounding them: I can't stand th
 
 1. There are usually other ladies waiting for a turn to one of the dressing rooms along with your girlfriend. Anyone who has been to one of these stores can attest the space around these rooms are heavily cramped and usually lacking in foot-space. Other ladies see me as an abberation blocking their way to the line or watch me like I am voyeur spying on them and their clothing habits. I have suggestion for the person designing these stores: make the area around dressing rooms MORE SPACIOUS please! Yesterday, as I was standing **JUST BESIDES** the line to the dressing room waiting for my girlfriend, a middle-aged lady sneaks up on me and asks sarcastically, "Are you in the line?".
 
-2. The employees roaming around, who are usually women, are convinced you are a possible deviant and seem convinced to prove themselves right watching every twitch you have as you stand as possible evidence towards the same.
+2. The employees roaming around, who are usually women, are convinced you are a possible deviant and seem convinced to prove themselves right watching every twitch you have as you stand there as possible evidence towards the same.
 
-3. 
+3. Your girlfriend selects a dress and walks outside to show you for a final call. She stands right at the head of the queue and expects you to answer how the dress looks. The entire audience of ladies is there waiting in the line with nothing to do except to poke their noses in other people's matters and they all turn around and see you with their  
