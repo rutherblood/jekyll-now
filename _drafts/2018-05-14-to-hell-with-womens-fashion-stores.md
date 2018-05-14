@@ -11,4 +11,4 @@ Let me talk of dressing rooms and the matters surrounding them: I can't stand th
 
 2. The employees roaming around, who are usually women, are convinced you are a possible deviant and seem convinced to prove themselves right watching every twitch you have as you stand there as possible evidence towards the same.
 
-3. Your girlfriend selects a dress and walks outside to show you for a final call. She stands right at the head of the queue and expects you to answer how the dress looks. The entire audience of ladies is there waiting in the line with nothing to do except to poke their noses in other people's matters and they all turn around and see you with their  
+3. Your girlfriend selects a dress and walks outside to show you for a final call. She stands right at the head of the queue and expects you to answer how the dress looks. The entire audience of ladies is there, waiting in the line with nothing to do except poke their noses in other people's matters and they all turn around and start staring at you with their Medusa-like gazes to see what judgement you are going to pass on the dress your girlfriend is wearing.
