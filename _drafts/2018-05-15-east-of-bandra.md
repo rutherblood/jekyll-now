@@ -7,7 +7,7 @@ The bridge had no footpath to walk on. I had reached there after climbing the fo
 
 Some of these apartments have a window facing towards the bridge and I can very easily peek into what goes on inside of these. I am a voyeur of the sombre. I can, at one instance, see the apartment passageway these apartments are across of through the open doors facing the window. Why do these sights always provoke a non-memory of violence, physical abuse and alcohol? The films of Anurag Kashyap and David Lynch have done much to me. But this cannot be just about films.
 
-As much as Bombay evokes in one a romanticism of the benign sun, oppurtunities and brilliant people and places it also brings up memories of such dismal sights I have witnessed in the past one and a half year I have been here now. This feeling is dread and a wish for more simple things.
+As much as Bombay evokes in one a romanticism of the benign sun, oppurtunities, brilliant people and beautiful places it also brings up memories of such dismal sights I have witnessed in the past one and a half year I have been here now. This feeling is dread and a wish for more simple things.
 
 See you tomorrow,  
 Avi.
