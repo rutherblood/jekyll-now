@@ -42,3 +42,6 @@ Yes, I know you can.
 
 >Someone you were once in the same space-time coordinates with,
 Avi.
+
+See you tomorrow,  
+Avi.
