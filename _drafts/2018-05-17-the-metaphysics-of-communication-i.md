@@ -27,7 +27,7 @@ It seems best to communicate in letters now. I guess we should learn doing it in
 
 > There is this song stuck in my head. It's a Doors song: Spanish Caravan. I do not know what it is about this song, but it was enough for me to check the flight tickets to Lisbon and Madrid last evening. (Cheapest price is around 20K for a six-month advance ticket FYI). I leave you with the lyrics to it, do take time to hear it: 
 
->Carry me, Caravan, take me away
+> Carry me, Caravan, take me away
 Take me to Portugal, take me to Spain
 Andalusia with fields full of grain
 I have to see you again and again
@@ -40,9 +40,9 @@ I have to see you again and again
 Take me, Spanish Caravan
 Yes, I know you can.
 
->Maybe my words don't mean a thing right now, but I hope they sure will when we meet again and I explain them to you. 
+> Maybe my words don't mean a thing right now, but I hope they sure will when we meet again and I explain them to you. 
 
->Someone you were once in the same space-time coordinates with,
+> Someone you were once in the same space-time coordinates with,
 Avi.
 
 See you tomorrow,  
