@@ -23,19 +23,19 @@ It seems best to communicate in letters now. I guess we should learn doing it in
 You remember that problem I had in my head? The metaphysics of human communication? It has started to open up a bit for me. Insights coming in. It has mostly been because of the new people I have been meeting, different experiences in this grand city (You were right, it was about implementable practice). Mumbai is truly a surreal experience that way. Shifting realities, urban mysticism, layers and layers and layers, majestic sample size of stories, a feeling of yourself being part of that tale, of anything and everything being possible and alley cats. I met a girl, man. She and I marched the entire length of Bombay on Republic Day. That is memory now, some clay-like memory that I can now infinitely mold and observe and think about and tell innumerable stories of, just like I can for our experiences in Goa. Sometimes I feel like a potter of my pasts.    
 I found this book, Milan Kundera's Identity sold second-hand at this footpath near Churchgate. This problem of communication and connection I have been struggling for the past year with, this guy has been writing about for years.    
 There is this song stuck in my head. It's a Doors song: Spanish Caravan. I do not know what it is about this song, but it was enough for me to check the flight tickets to Lisbon and Madrid last evening. (Cheapest price is around 20K for a six-month advance ticket FYI). I leave you with the lyrics to it, do take time to hear it:    
-Carry me, Caravan, take me away
-Take me to Portugal, take me to Spain
-Andalusia with fields full of grain
-I have to see you again and again
-Take me, Spanish Caravan
-Yes, I know you can
-Trade winds find Galleons lost in the sea
-I know where treasure is waiting for me
-Silver and gold in the mountains of Spain
-I have to see you again and again
-Take me, Spanish Caravan
-Yes, I know you can.
-Maybe my words don't mean a thing right now, but I hope they sure will when we meet again and I explain them to you. 
+Carry me, Caravan, take me away  
+Take me to Portugal, take me to Spain  
+Andalusia with fields full of grain  
+I have to see you again and again  
+Take me, Spanish Caravan  
+Yes, I know you can  
+Trade winds find Galleons lost in the sea  
+I know where treasure is waiting for me  
+Silver and gold in the mountains of Spain  
+I have to see you again and again  
+Take me, Spanish Caravan  
+Yes, I know you can.  
+Maybe my words don't mean a thing right now, but I hope they sure will when we meet again and I explain them to you.  
 Someone you were once in the same space-time coordinates with,  
 Avi.
 
