@@ -13,6 +13,8 @@ There was a gap in me that I believed made me failure in communicating effective
 
 After our seventh-semester finals, back in December 2016, four of us took a trip to Goa. I was the most open and receptive to ideas and experiences at that time than I ever was. This is what I carried when I moved to Bombay in January next year for my upcoming internship here. Here's is the mail I sent to [Akash](https://www.youtube.com/watch?v=HgzGwKwLmgM "YouTube link to Queen's Don't Stop Me Now") on 6th February having now spent a month and week in Bombay.
 
+>subject: What January Gave Me
+
 > Bro,
 
 >It's been only a month now and I already feel like that life is so far away from me. You know, college life. So in this brief time so many things have happened. I decided to give up social media altogether. Even whatsapp. It's been interesting because I just started doing it only a week back now. Man, I do miss our exchanges. And not the ones on whatsapp. I mean the real ones. I do try recreating them with the new people I am meeting here. But it's only an approximation of what we had I guess.
