@@ -35,7 +35,6 @@ Silver and gold in the mountains of Spain
 I have to see you again and again  
 Take me, Spanish Caravan  
 Yes, I know you can.  
-
 Maybe my words don't mean a thing right now, but I hope they sure will when we meet again and I explain them to you.  
 Someone you were once in the same space-time coordinates with,  
 Avi.
