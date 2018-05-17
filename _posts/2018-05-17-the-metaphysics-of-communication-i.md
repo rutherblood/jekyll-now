@@ -1,4 +1,6 @@
 ---
+layout: post
+title: the metaphysics of communication i.
 published: true
 ---
 [ The Dictionary Of Obscure Sorrows_](http://www.dictionaryofobscuresorrows.com/ "Hyperlink to The Dictionary of Obscure Sorrows site") by John Koenig is the kind of project that makes me boil in jealousy. This is not just owing to its success but also the sheer simplicity of its core idea and a wish that this could have occurred to me first and might have become _my_ lifelong obsession and work.
