@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 There is a certain feeling about certain ways of behaving in an office you come to realize makes some people seem dominant and important. This feeling is not certain in the early days and you think these people important and geniuses but you come to recognize assholes who boast out a lot whenever they are even temporarily right and suck the entire limelight or credit for 0.01% insight they gave, the 99.99% work that someone else did down the garbage of unimportance.
 
