@@ -5,7 +5,7 @@ I am back after my first biweekly break yesterday. I have decided to take a day 
 
 There is a certain veil I am walking the city with these days. The problem refuses to go away. Whatever I see in this city, my brains seems not to actually _see_ it but abstract it away as something already seen before. This is difficult to avert and it takes real concious effort to break through this calcification of perception towards your surroundings. This is tragic because when I was not here in Bombay and even after I arrived here, this city to me symbolised a certain magic in the way the world functioned. The magic leaked here most of other places. I came to love it. 
 
-This feeling and freshness is now largely gone quantified by the lack of poetry I produce. Perceptions decalcify in the upcoming weeks. Listen.
+This feeling and freshness is now largely gone quantified by the lack of poetry I produce. Perceptions decalcify in upcoming weeks. Listen.
 
 See you tomorrow,
 Avi.
