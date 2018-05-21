@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Summers are the best time for watching sunsets. Not bluffing or trying to bore you here with simple things but maybe you _are_ underestimating the value a good sunset can generate in your life. A beautiful one right in front of you gives you a strange strength and vitality. Try seeing a few of them before the monsoon begins. I'll suggest some spots.
 
