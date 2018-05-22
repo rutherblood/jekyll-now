@@ -1,4 +1,6 @@
 ---
+layout: post
+title: the poetry of the doors.
 published: true
 ---
 Take these lyrics into consideration:
