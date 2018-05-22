@@ -5,16 +5,16 @@ published: true
 ---
 Take these lyrics into consideration:
 
->I love you, the best 
-Better than all the rest 
-I love you, the best 
-Better than all the rest 
-That I meet in the summer 
-Indian summer 
-That I meet in the summer 
-Indian summer 
-I love you, the best 
-Better than all the rest
+>I love you, the best  
+Better than all the rest  
+I love you, the best  
+Better than all the rest  
+That I meet in the summer  
+Indian summer  
+That I meet in the summer  
+Indian summer  
+I love you, the best  
+Better than all the rest  
 
 The same motif makes up the entirety of this song. References to the loveliest of all things one encounters in summer. I fail to understand what the _Indian_ means here. The country? It's the Native Americans most probably. Now, listen to [this song](https://www.youtube.com/watch?v=3zHZzxJtOKw "YouTube link to The Doors' Indian Summer"). I'll wait while you listen.
 
@@ -53,4 +53,3 @@ The Doors and specifically its frontman, Jim Morrison did the kind of poetry ove
 
 See you tomorrow,  
 Avi.
-
