@@ -22,30 +22,30 @@ A subtle slow song. The lyrics overlaid like jewels. The lyrics are so open-ende
 
 Here's another:
 
->I can't see your face in my mind
-I can't see your face in my mind
-Carnival dogs consume the lines
-Can't see your face in my mind
->
->Don't you cry
-Baby
-Please don't cry
-And don't look at me with your eyes
->
->I can't seem to find the right lie
-I can't seem to find the right lie
->
->Insanity's horse adorns the sky
-Can't seem to find the right lie
->
->Carnival dogs consume the lines
-Can't see your face in my mind
->
->Don't you cry
-Baby
-Please don't cry
-I won't need your picture
-Until we say good-bye
+>I can't see your face in my mind  
+I can't see your face in my mind  
+Carnival dogs consume the lines  
+Can't see your face in my mind  
+>  
+>Don't you cry  
+Baby  
+Please don't cry  
+And don't look at me with your eyes  
+>  
+>I can't seem to find the right lie  
+I can't seem to find the right lie  
+>  
+>Insanity's horse adorns the sky  
+Can't seem to find the right lie  
+>  
+>Carnival dogs consume the lines  
+Can't see your face in my mind  
+>  
+>Don't you cry  
+Baby  
+Please don't cry  
+I won't need your picture  
+Until we say good-bye  
 
 The line that particularly captures me in the song is this one: _I can't see your face in my mind_. It seems important because this happens to me a lot where I can't even remember my parents' faces after I haven't seen them in a long time. It is horrifying, to say the least. The [song](https://www.youtube.com/watch?v=p0TRzTSIQI8 "YouTube link to The Doors' I Can't See Your Face In My Mind") is frankly weird. 
 
