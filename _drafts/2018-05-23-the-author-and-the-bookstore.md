@@ -12,3 +12,7 @@ There are reasons this incident is so tragic to my life:
 
 2. Living in less connected places like my hometown or Baroda I'd always wished for places that might host people like me, writers and artists. Now that I do have a place, a place which hosts these writers flesh and bone, writers which I have come to deeply value all that stops me is my own schedule and the bliss of not knowing at the right time that these things are happening. I also missed a free [Peter Cat Recording Co.](https://www.youtube.com/watch?v=S9jEQB53EAk "YouTube link to PCRC's I'm Home") concert not even a kilometer away from where I live last Friday!
 
+Anyway.
+
+See you tomorrow,  
+Avi.
