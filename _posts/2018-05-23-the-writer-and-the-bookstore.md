@@ -1,4 +1,6 @@
 ---
+layout: post
+title: the writer and the bookstore.
 published: true
 ---
 Yesterday evening during work I ditched a half hour and made a visit to the [Trilogy](http://www.teltrilogy.com/ "Trilogy and The Eternal Library website") bookstore here at Lower Parel. I had just discovered their Instagram account earlier and saw [Jerry Pinto](https://scroll.in/article/838552/i-have-written-standing-up-in-buses-on-the-fourth-seat-of-a-mumbai-local-jerry-pinto "Scroll interview of Jerry Pinto") was there not long ago for a workshop. The person/(proprietor?) who billed my books confirmed this. 
