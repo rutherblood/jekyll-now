@@ -8,7 +8,7 @@ Yesterday evening during work I ditched a half hour and made a visit to the Tril
 
 There are reasons this incident is so tragic to my life:
 
-1. Jerry Pinto's Em and The Big Hoom connected so deeply to me because his family felt so much like my own. I could not help but compare his and his mom's struggles to my own situation and my own mom. While my mom is not bipolar she's suffered from chronic migraines for long now.
+1. Jerry Pinto's [Em and The Big Hoom](https://www.theguardian.com/books/2014/may/03/em-and-the-big-hoom-jerry-pinto-family-life-bombay "Gurdian article covering Jerry Pinto's Em and The Big Hoom") connected so deeply to me because his family felt so much like my own. I could not help but compare his mom's struggles to my mom's. While my mom is not bipolar she's suffered from chronic migraines for long now.
 
 2. Living in less connected places like my hometown or Baroda I'd always wished for places that might host people like me and writers and artists. Now that I do have a place, a place which hosts these writers flesh and bone, writers which I have come to deeply value all that stops me is my own schedule and the bliss of not knowing at the right time that these things are happening. I also missed a free [Peter Cat Recording Co.](https://www.youtube.com/watch?v=S9jEQB53EAk "YouTube link to PCRC's I'm Home") concert not even a kilometer away from where I live last Friday!
 
