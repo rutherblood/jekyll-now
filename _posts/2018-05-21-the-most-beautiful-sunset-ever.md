@@ -11,7 +11,7 @@ Everyone's complaining about the daytime heat. I am usually seen complaining all
 
 2. The number of colors it morphs into and by. The colors are what ultimately give sunsets their charm. The more the better. Here are the ones to look out for: violet, pink, purple, blue, orange, crimson, red and various combinations thereof.
 
-Last evening's sunset at Worli had all this. Gradual softening of colors into the eventual black of the night. Here we were sitting in the middle of one of these beauties, me not even noticing, listening together to [Casey and Candice's Couple's Therapy](https://anchor.fm/couples-therapy "Anchor link to Couple's Therapy podcast") (FTW BTW!) and my girlfriend suddenly goes, "Hey, this is one of those sunsets you have been talking about wanting to see for so long!".
+Last evening's sunset at Worli had all this. Gradual softening of colors into the eventual black of the night. Here we were sitting in the middle of one of these beauties, me not even noticing, listening together to [Candice and Casey's Couple's Therapy](https://anchor.fm/couples-therapy "Anchor link to Couple's Therapy podcast") (FTW BTW!) and my girlfriend suddenly goes, "Hey, this is one of those sunsets you have been talking about wanting to see for so long!".
 
 See you tomorrow,  
 Avi.
