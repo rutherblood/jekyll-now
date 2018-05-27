@@ -17,7 +17,7 @@ Is he just flesh blood bone dripping tissue?
 Or is he something more?  
 Is he the constant monologue that goes on in his head?   
 Or is he the general lack of it that shows when he opens his mouth for the billionth time since the past hour?  
-In the end what can he be reduced to?  
+In the end, what can he be reduced to?  
 Is he just all the books the poetry he'd ever read?  
 And the music he's listened to over time?  
 And the posters that hang over his walls?  
