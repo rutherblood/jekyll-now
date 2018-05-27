@@ -1,7 +1,7 @@
 ---
 layout: post
 title: a soliloquy
-published: false
+published: true
 ---
 What does make a man a man? Is it the things he is interested in? The kind of music, literature, art that he likes? Is it the opinion he holds about the affairs of the world? Is it the relationships he has with different people?  
 Is it the people he knows and the company he keeps?  
@@ -35,4 +35,4 @@ That is the question I have.
 See you tomorrow,  
 Avi.
 
-P.S. The above is something I wrote back in 2016. I just rediscovered my old notes and poetry after I logged into an Evernote account I had stopped using. It was meant to be a poem but feels more like an inner monologue. So there. Also, I missed my schedule yesterday. I am finding it difficult to post whenever my plans take a different turn and this can especially happen on weekends. Anyway, such inefficiencies will be eliminated. Hang tight. 
+P.S. The above is something I wrote back in 2016. I just rediscovered my old notes and poetry after I logged into an Evernote account I had stopped using. It was meant to be a poem but feels more like an inner monologue. So there. Also, I missed my schedule yesterday. I am finding it difficult to post whenever my plans take a different turn and this can especially happen on weekends. Anyway, such inefficiencies will be eliminated. Hang tight.
