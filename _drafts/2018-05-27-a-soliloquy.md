@@ -22,7 +22,7 @@ Is he just all the books the poetry he'd ever read?
 And the music he's listened to over time?  
 And the posters that hang over his walls?  
 The fashion he's adopted, the way his hair parts, the way he walks?  
-Or is it all the thoughts he thinks of but never writes about or paints about or plays by or wears on or builds about or acts out?  
+Or is it all the thoughts he thinks of but never writes about or paints on or plays by or wears on or builds about or acts out?  
 Or is it all that he creates but never shows?  
 Is it all the people who have loved him known him and those few whom he has truly loved back?  
 Those that hold a patchy mosaic of his soul in their own souls?  
