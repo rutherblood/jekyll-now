@@ -33,4 +33,4 @@ That is the question I have.
 See you tomorrow,  
 Avi.
 
-P.S. The above is something I wrote back in 2016. It was meant to be a poem but feels more like an inner monologue. So there. Also I missed my posting schedule yesterday. I am finding it diffcult to post whenever my plans take a different turn. Anyway, such inefficiencies will be eliminated. Hang tight. 
+P.S. The above is something I wrote back in 2016. I just rediscovered my old notes and poetry after I logged into my Evernote account I had stopped using. It was meant to be a poem but feels more like an inner monologue. So there. Also I missed my posting schedule yesterday. I am finding it diffcult to post whenever my plans take a different turn. Anyway, such inefficiencies will be eliminated. Hang tight. 
