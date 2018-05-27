@@ -2,7 +2,7 @@
 published: false
 ---
 What does make a man a man? Is it the things he is interested in? The kind of music, literature, art that he likes? Is it the opinion he holds about the affairs of the world? Is it the relationships he has with different people?  
-Is it the people he knows and the company he keeps?
+Is it the people he knows and the company he keeps?  
 Is it the opinion others have of him?
 Is it the sum total of the all the opinions others have of him or the opinions of just some people that he deems the most important? Or is it the opinions of people that someone else studying the man would consider important?
 How many different ways can a man come off across as to different people?
