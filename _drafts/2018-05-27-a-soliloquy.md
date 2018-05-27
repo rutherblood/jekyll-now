@@ -28,7 +28,7 @@ Is it all the people who have loved him known him and those few whom he has trul
 Those that hold a patchy mosaic of his soul in their own souls?  
 Or is it the patches of different people's soul that well lies within him as well?  
 What are we all but patches made of different cloth each sharing our patched cloth with the other from the time we love to the time we abandon them?  
-That is the question I have.    
+That is the question I have.
 
 See you tomorrow,  
 Avi.
