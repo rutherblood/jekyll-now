@@ -1,4 +1,6 @@
 ---
+layout: post
+title: a soliloquy
 published: false
 ---
 What does make a man a man? Is it the things he is interested in? The kind of music, literature, art that he likes? Is it the opinion he holds about the affairs of the world? Is it the relationships he has with different people?  
