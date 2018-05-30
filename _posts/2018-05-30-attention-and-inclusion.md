@@ -1,4 +1,6 @@
 ---
+layout: post
+title: attention and inclusion.
 published: true
 ---
 I have missed four days in total. My schedule had really been erratic and to be honest and making no excuses for my behavior, I consciously ignored blogging as an active priority. This was me ignoring the things I really should not be ignoring. Over the past year, the only thing I can say I have definitely learned is not to ignore the things that are yours to be. Deep, managed attention to all the things that belong to you, your sense of self, your possessions including your books, desk, clothes, your favorite wooden spoon you love eating in that ceramic bowl with, the people you truly love and want always to be there in your life, all these things, brings about a sense of satisfaction and self-regulation among them that you so require to live a harmonious and happy life. This blog has now become a [vital part](http://www.willwilkinson.net/flybottle/2014/01/23/old-school-blogging/ "Old School Blogging") of it, attention to it crucial along with the number of others I have been actively ignoring. 
