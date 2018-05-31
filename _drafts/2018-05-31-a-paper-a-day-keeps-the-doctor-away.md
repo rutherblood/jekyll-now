@@ -9,7 +9,7 @@ Now, I wish I had the intelligence and exposure or the time to read one paper ev
 
 2. [Philosophy of Statistics](https://plato.stanford.edu/entries/statistics/ "Philosophy of Statistics SEP entry") & [Bayes' Theorem](https://plato.stanford.edu/entries/bayes-theorem/ "Bayes' Theorem SEP entry"): For aforementioned reasons.
 
-3. [Plotinus](https://plato.stanford.edu/entries/plotinus/ "Plotinus SEP entry"): Yours humbly from being an atheist is now slowly blooming to an agnost. Another post waiting to to be writ. Details will come :)
+3. [Plotinus](https://plato.stanford.edu/entries/plotinus/ "Plotinus SEP entry"): Yours humbly from being an atheist is now slowly blooming to an agnost. Another post begging to to be writ. Details will come :)
 
 4. [Aristotle's Logic](https://plato.stanford.edu/entries/aristotle-logic/ "Aristotle's Logic SEP entry") & [The Traditional Square of Opposition](https://plato.stanford.edu/entries/square/ "The Traditional Square of Opposition SEP entry"): This has been after a general reasoning class where we were learning syllogisms and I was particularly troubled by some aspects of the "some" quantifier. The past few days I missed writing posts has largely been due to a contribution of not knowing what to write about & being excited about writing something on syllogisms. But I did not want to do this without prep, failed to prep and failed to write any posts as well. That was brutal but I do mean to complete and have it up here in the near future. Hold tight.
 
