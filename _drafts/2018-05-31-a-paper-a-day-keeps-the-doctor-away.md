@@ -9,11 +9,11 @@ Now, I wish I had the intelligence and exposure or the time to read one paper ev
 
 2. [Philosophy of Statistics](https://plato.stanford.edu/entries/statistics/ "Philosophy of Statistics SEP entry") & [Bayes' Theorem](https://plato.stanford.edu/entries/bayes-theorem/ "Bayes' Theorem SEP entry"): For aforementioned reasons.
 
-3. [Plotinus](https://plato.stanford.edu/entries/plotinus/ "Plotinus SEP entry"): Yours humbly from being an atheist is now slowly blooming to an agnost. Another post begging to to be writ. Details will come :)
+3. [Plotinus](https://plato.stanford.edu/entries/plotinus/ "Plotinus SEP entry"): Yours humbly from being an atheist is now slowly blooming to an agnostic. Another post begging to be writ. Details will come :)
 
 4. [Aristotle's Logic](https://plato.stanford.edu/entries/aristotle-logic/ "Aristotle's Logic SEP entry") & [The Traditional Square of Opposition](https://plato.stanford.edu/entries/square/ "The Traditional Square of Opposition SEP entry"): This has been after a general reasoning class where we were learning syllogisms and I was particularly troubled by some aspects of the "some" quantifier. The past few days I missed writing posts during has largely been due to a contribution of not knowing what to write about and being excited about writing something on syllogisms. But I did not want to do this without prep, failed to prep and failed to write any posts as well. That was brutal but I do mean to complete it and have it up here in the near future. Hold tight.
 
-5. [The Problem of Induction](https://plato.stanford.edu/entries/induction-problem/ "The Problem of Induction SEP entry"): I have yet to read this but there are many places which lead me to this one. My own work with palm rejection, the above mentioned article on philosophy of statistics and the class on syllogism fueled my fascination with the idea of induction and with David Hume's ideas in general.
+5. [The Problem of Induction](https://plato.stanford.edu/entries/induction-problem/ "The Problem of Induction SEP entry"): I have yet to read this but there are many places which lead me to this one. My own work with palm rejection, the above-mentioned article on the philosophy of statistics and the class on syllogism fueled my fascination with the idea of induction and with David Hume's ideas in general.
 
 See you tomorrow,  
 Avi.
