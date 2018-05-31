@@ -3,4 +3,14 @@ published: false
 ---
 Lately I have been fascinated by probability theory, statistics and anything in general which kind of pertains to economics, finance or real-life management of one's resources or as it pertains to gambling. Papers which do not fundamentals but give a different way of seeing the world around us. More importantly these papers need to give me wisdom instead of just preaching math and building theoretical frameworks. 
 
-Now, I wish I had the intelligence and exposure or the time to read one paper everyday but unfortuantely that not being the case the many papers I have come to become fascinated with I hardly complete and get shelved. I have taken a liking for [this](https://people.csail.mit.edu/costis/simplified.pdf "The Complexity of Computing Nash Equilibrium") one right now after reading this [blog-post](https://ristret.com/s/qk8wpt/philosophy_computational_complexity "The Philosophy Of Computation Complexity at Ristret") trending at HN.  
+Now, I wish I had the intelligence and exposure or the time to read one paper everyday but unfortuantely that not being the case the many papers I have come to become fascinated with I hardly complete and get shelved. I have taken a liking for [this](https://people.csail.mit.edu/costis/simplified.pdf "The Complexity of Computing Nash Equilibrium") one right now after reading this [blog-post](https://ristret.com/s/qk8wpt/philosophy_computational_complexity "The Philosophy Of Computation Complexity at Ristret") trending at HN. There is [yet another resource](http://fermatslibrary.com/ "Fermat's Library") which is fascinating for its core idea: of curating fantastic papers from areas of human study and letting the community annotate over them. In other things I have also been lately really occupied with particular articles at Stanford Encyclopedia of Philosophy. I have a membership which means I can get PDFs for these articles. Here are some which have been occupying me lately:
+
+1. Computation Complexity: After reading the aforementioned blog-post.
+
+2. Philosophy of Statistics & Bayesian Reasoning: For aforementioned reasons.
+
+3. Plotinus: Yours humbly from being an atheist is now becoming an agnost. Another post waiting to to be writ. Details will come :)
+
+4. Aristotle's Logic & The Traditional Square of Opposition: This has been after a general reasoning class where we were learning syllogisms and I was particularly troubled by some aspects of the "some" quantifier. The past few days I missed writing posts has largely been due to a contribution of not knowing what to write about & being excited about writing something on syllogisms. But I did not want to do this without prep, failed to prep and failed to write any posts as well. That was brutal.
+
+5. The Problem of Induction: I have yet to read this but there are many places which lead me to this one. My own work with palm rejection, 
