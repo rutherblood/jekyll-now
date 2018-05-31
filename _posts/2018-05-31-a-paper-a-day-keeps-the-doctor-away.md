@@ -1,4 +1,6 @@
 ---
+layout: post
+title: a paper a day keeps the doctor away.
 published: true
 ---
 Lately, I have been fascinated by probability theory, statistics and anything in general which kind of pertains to economics, finance or real-life management of one's resources or as it pertains to gambling. Papers which do not fundamentals but provide a different way of seeing the world around us. More importantly, these papers need to give us wisdom instead of just preaching math and building theoretical frameworks. 
