@@ -9,7 +9,7 @@ NOT THIS TIME. Farewell, summer. Farewell. The monsoon will come and I am bound 
 
 You see I am the kind of person who complains a lot. About alot of things. We were at Crawford Market yesterday and I had just had another typical exhuasting day at the office. The air and the sky around was orange, the sunset over-stretching itself and I had decided to leave work early. My backpack was giving me hard time. It was not heavy as such but after sitting on the uncomfortable office chair the whole day I was having real sharp bouts of pain shooting through my neck. And the day was hot, as ever. Usually I am really cranky when situations are like these and I am walking outside. It was pointed out to me how I could try putting the slight discomfort in the background and try enjoying for which we were actually there. Which I did. I put the pain the background, tried enjoying and guess what? We ended up having a good time. Me not complaining not only made me learn to be a bit resilient but also avoided spoiling the fun of others around me which in turn made _me_ enjoy things. Now this is not to encourage supressing your problems and avoid telling them to the people who care about you, who could help but this is just about a managable problem which you can avoid having had conquer your life.
 
-Same goes for the monsoon. Will be actively searching for the subtle and the beautiful this season. Hang tight. 
+Same goes for the monsoon. Will be actively searching for the subtle and the beautiful this season. Let the rains come. 
 
 See you tomorrow,  
 Avi.
