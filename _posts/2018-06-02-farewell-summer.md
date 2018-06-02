@@ -1,4 +1,6 @@
 ---
+layout: post
+title: farewell, summer.
 published: false
 ---
 June is here. Summer is on its knees giving way to monsoon clouds rolling in from the south. Bombay is experiencing pretty cloudy and dark early mornings and nights. The first rain will fall and everybody should release a sigh of relief as the unbearable hot of the days makes way for rainy cool. Except, living in Bombay I have come to hate the rains.
