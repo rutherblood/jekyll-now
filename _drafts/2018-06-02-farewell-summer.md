@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-June is here. Summer is on its knees giving way to monsoon clouds rolling in from south. Bombay is experiencing pretty cloudy and dark early mornings and nights. The first rain will fall and everybody should release a sigh of relief as the unberable hot of the days makes way for rainy cool. Except, living in Bombay I have come to hate the rains.
+June is here. Summer is on its knees giving way to monsoon clouds rolling in from the south. Bombay is experiencing pretty cloudy and dark early mornings and nights. The first rain will fall and everybody should release a sigh of relief as the unbeaable hot of the days makes way for rainy cool. Except, living in Bombay I have come to hate the rains.
 
 A lack of sunlight is something I have learned to dread since some years. I was not always like this. Back in college I used to wait for monsoon. Just last year, I was optimistically waiting to experience Bombay with its rains, this romantic idea of rain engrained in me from [Wake Up Sid](https://www.youtube.com/watch?v=8Cf6YBHs_Sc "Wake Up Sid climax")(Now continue reading this post with the song playing in the background). And all that happened was the city made me deal with the wet roads, dirty rainwaiter, water-logged streets, the unstopping traffic, stuck locals, jams and general dampness of everything, which made me hate it. Add to that the fact that yours humbly does not expereince the sun for several days and everything seems to start gloomy at best. 
 
