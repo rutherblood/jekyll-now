@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 During my internship here in Bombay some friends and I and used to live in a flat on N.M. Joshi Marg near Elphinstone Station. The flat was just near a corner of Bombay where many sweet memories were made. Deepak Talkies, now Carnival Cinemas but also known as [Matterden](https://www.matterden.com/ "Matterden website") in both its avatars was where I first saw Frida at their [off-beat Sunday afternoon slot](https://www.instamojo.com/matterden/ "Instamojo page for Matterden"). Matterden was also where my girlfriend and I watched our first film together which was The Beatles' A Hard Day's Night after which we visited [Cafe Free India](https://goo.gl/maps/FrVjASsXeLQ2 "Cafe Free India location on Google Maps") just opposite Matterden for the first time. The food there is always fantastic by the way. Highly recommended. Pick up anything from the menu.
 
