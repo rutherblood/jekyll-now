@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Back in 2015, I published my first poem in the then recently launched The Bombay Review. It was long tirade on the what was then going on in the country with a liberal but naive rhetoric. It had been just a year after BJP had come to power. People were being slaughtered on the rumors they had slaughtered a cow when in fact it was a goat, students were persecuted based on their immediate identities and voices were being forced to stop speaking against anything but one thing. Imaginary enemies were being manufactured and I was turning from being a potential voter for BJP in the 2014 elections to someone beginning to be vehemently opposed to them. 
 
