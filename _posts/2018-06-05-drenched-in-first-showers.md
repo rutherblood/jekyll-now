@@ -1,4 +1,6 @@
 ---
+layout: post
+title: drenched in first showers.
 published: true
 ---
 I was at work when the first showers broke with heavy winds, last evening in Bombay. One of the office glass windows broke open from its fixture and the entire planet seemed to be shaking violently. It was hilarious. 
