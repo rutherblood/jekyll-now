@@ -1,6 +1,6 @@
 ---
 layout: post
-title: where i have been the last week.
+title: where i have been the past week.
 published: true
 ---
 A generic quote someone I know on Whatsapp attributes to Harvey MacKay: _A dream is just a dream. A goal is a dream with a plan and a deadline_.
