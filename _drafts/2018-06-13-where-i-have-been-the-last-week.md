@@ -7,4 +7,7 @@ I started this blog with the intention of reaching two different goals. Both of 
 
 Unless the first goal is not in crisis that is. You see, the blog was started with the intention that my hours at night would be allocated towards the first goal and my hours in the early morning towards this blog. But due to laziness, exhaustion after work and the various other excuses I could cite I was failing with my more urgent, more time-intensive first goal at the same time I was succeeding with the second. And I could not stop feeling the guilt towards not doing so. Which culminated last week in me consciously deciding to not blog until I got sorted with the schedule and execution of my nightly hours. Which I am relieved to have finally done last night and hence this post.
 
-This is not to say I will stop my _daily_ blog whenever my nightly hours miss or there is a change in the schedule. Only that the satisfaction that comes with writing this blog is not whole unless I am satisfied about my work on the first goal as well. Both these goals are brothers and squandering one may as well .
+This is not to say I will stop my _daily_ blog whenever my nightly hours miss or there is a change in the schedule. Only that the satisfaction that comes with writing this blog is not whole unless I am satisfied about my work on the first goal as well. Both these goals are brothers and squandering one may as well kill the other both for different reasons. The daily blog meanwhile resumes and stays resumed. 
+
+See you tomorrow,  
+Avi.
