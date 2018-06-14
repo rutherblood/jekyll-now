@@ -1,4 +1,6 @@
 ---
+layout: post
+title: i am a bibliophile.
 published: true
 ---
 Lately, I have come to be afraid of acquiring new books. This is major because I have been reading a lot less than my liking, frankly because I have not had the time to do so for atleast a year now. Maybe I need to acquire a habit of gobbling books even with a hectic schedule, a constant not seeming to go away for now and possibly never in the future. That I shall do. But meanwhile, I have been reading a lot less and acquiring books at a much faster pace than managing to finish them.
